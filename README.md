@@ -26,7 +26,7 @@
 
 ## 🎯 bobalkkagi
 **Themida 3.x Tiger Red 옵션 unpacking & unwrapping**  
-👉 [바로가기](https://github.com/P4P3R-HAK/bobalkkagi)
+👉 [바로가기]([https://github.com/bobalkkagi/bobalkkagi.git])
 <img width="1108" height="527" alt="image" src="https://github.com/user-attachments/assets/3f64d32e-c0ac-4f3f-badb-3693da548521" />
 <img width="1206" height="671" alt="image" src="https://github.com/user-attachments/assets/5cf977d3-313f-4b6e-88e0-3bf073723929" />
 <img width="1305" height="686" alt="image" src="https://github.com/user-attachments/assets/97019713-aed0-4a8c-a224-6b7bfce994ef" />
