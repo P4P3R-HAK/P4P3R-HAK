@@ -1,21 +1,26 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=About%20p4p3r%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
 
 # 👋 About Me
-- CTF와 버그바운티, RedTeam 공부를 하고 Web 분야를 주로 맡고 있습니다.
+
+- CTF, 버그바운티, Red Teaming 기반의 웹 보안 및 취약점 연구를 중심으로 활동하고 있습니다.
 - K-Shield Jr. 보안사고 분석대응 과정 수료
-- 차세대보안리더양성프로그램 Best of the Best 취약점 분석 트랙 수료
-- S-개발자 수료
-- APT 공격 훈련, 난독화/패킹 해제, BAS(Breach and Attack Simulation) 관련 프로젝트를 진행하였습니다.
-- AI를 활용한 프로젝트로 감정 분석을 통한 보이스피싱 예방 솔루션, 악성코드 분석을 통한 랜섬웨어 판별 프로젝트를 하였습니다.
-- 모의해킹에 관심이 많습니다.
+- 차세대보안리더양성프로그램 (Best of the Best) 취약점 분석 트랙 수료
+- S-개발자 과정 수료
+- 모의해킹 및 웹 애플리케이션 보안에 관심을 두고 지속적으로 연구하고 있습니다.
+
+- APT 공격 시나리오, 난독화/패킹 분석, BAS(Breach and Attack Simulation) 환경 구축 등 공격 시뮬레이션 기반 보안 연구를 수행하였습니다.
+- AI를 활용한 보안 프로젝트 경험 보유 (보이스피싱 탐지 감정 분석 모델, 랜섬웨어 악성코드 판별 시스템 등)
 
 # 📚 Activities
-- BoB 총동문회 임원 (2023.03 ~ 2026.03)
-- 국제 사이버훈련 부멘토 (2024.09)
-- 화이트햇스쿨 조교 (2024.03 ~ 2024.04)
+
+- BoB 총동문회 운영진 (2023.03 ~ 2026.03)
+- 국제 사이버 훈련 프로그램 부멘토 (2024.09)
+- 화이트햇스쿨 교육 조교 (2024.03 ~ 2024.04)
 - 사이버가디언즈 보안캠프 멘토 (2023.09)
 - 2023 하계 해킹캠프 참여 (2023.08)
-- BoB 12기 조교 (2023.07 ~ 2023.08)
+- BoB 12기 교육 조교 (2023.07 ~ 2023.08)
+
+
 ---
 
 # 🚀 My Projects
@@ -39,16 +44,61 @@
 <img width="1061" height="459" alt="image" src="https://github.com/user-attachments/assets/7f5298c9-7d66-4c9f-b6d0-d4aa10a92a2d" />
 <img width="1074" height="499" alt="image" src="https://github.com/user-attachments/assets/cb74b799-2eed-4edf-a218-d78eab8b8831" />
 
+---
+
+# 🛡️ Security Research
+
+### CVEs & Vulnerabilities
+
+| Year | CVE / KVE      | Vendor       | Product       | Type                                         | Url                                                         |
+| ---- | -------------- | ------------ | ------------- | -------------------------------------------- | ----------------------------------------------------------- |
+| 2026 | -              | WordPress    | wordpress.org | Stored XSS                                   | https://hackerone.com/reports/3624450                       |
+| 2026 | -              | WordPress    | bbpress.org   | CSRF                                         | https://hackerone.com/reports/3630002                       |
+| 2026 | -              | BandiSoft    | Bandizip      | Hard link resolution in file creation        | https://kr.bandisoft.com/bandizip/history/                  |
+| 2026 | -              | BandiSoft    | Bandizip      | Filename normalization in archive extraction | https://kr.bandisoft.com/bandizip/history/                  |
+| 2026 | -              | BandiSoft    | Bandizip      | File trust metadata handling (MoTW)          | https://kr.bandisoft.com/bandizip/history/                  |
+| 2026 | -              | SirSoft      | gnuboard5     | 5.6.26 version RCE                           | https://github.com/gnuboard/gnuboard5/releases/tag/v5.6.27  |
+| 2026 | CVE-2026-42504 | Google       | Golang        | MIME header decoding DoS                     | https://www.cve.org/CVERecord?id=CVE-2026-42504             |
+| 2026 | -              | Google       | Golang        | X.509 certificate validation logic issue     | https://github.com/golang/go/issues/79833                   |
+| 2026 | -              | ScintillaOrg | Lexilla       | Stack out-of-bounds write in lexer           | https://github.com/ScintillaOrg/lexilla/issues/364          |
+| 2026 | -              | MicroPython  | MicroPython   | Integer overflow heap buffer overflow        | https://github.com/micropython/micropython/issues/19314     |
+| 2026 | -              | KOReader     | KOReader      | Command injection via PDF external link URI  | https://github.com/koreader/koreader/issues/15490           |
+| 2026 | CVE-2026-48142 | F5 Inc       | NGINX         | Heap buffer over-read in charset module      | https://www.cve.org/CVERecord?id=CVE-2026-48142             |
+
+
+### Vulnerability Statistics
+
+* 🏆 Total CVEs/KVEs: 2
+* 🎖️ Total Valid Reports: 12
+
+### Research Areas
+
+* Web Application Security
+* Source Code Review
+* Open Source Security
+* Bug Bounty
+* Vulnerability Research
 
 ---
 
-# 🏆 CTF
-- 📂 제작 문제 및 CTF Write-up 업데이트 중
-- [바로가기](https://p4p3r.notion.site/CTF-6bd1e9fc3eac424b8b74017d7049d9dc?source=copy_link)
+# 🏆 CTF Achievements
 
-# 🏆 ConTest
-- 2025년 제6회 호남사이버보안 컨퍼런스 웹 취약점 경진대회 본선 진출 (팀원: 3명, 발견한 취약점: 21개, 내가 발견한 취약점: 6개)
-- 2025년 제7회 TS 보안 허점을 찾아라 공모전 (팀원: 4명, 발견한 취약점: 57개, 내가 발견한 취약점: 21개) 대상
+CTF write-ups and participation history focusing on web exploitation, reverse engineering, and vulnerability research.
+- 🥇 VishwaCTF 2026 — 1st Place (Global Ranking)
+<img width="1016" height="720" alt="image" src="https://github.com/user-attachments/assets/9e0882c4-90a7-45d2-8f0b-8ef687366d17" />
+- Multiple CTF participations with competitive rankings
+
+## 🧩 Competition Results
+
+- 🥇 **TS Security Vulnerability Finding Contest (2025)**  
+  - 🏆 **Grand Prize (Team)**  
+  - 57 vulnerabilities discovered (21 personally identified)  
+  - Focus: Web  vulnerabilities  
+
+- 🥈 **Hoseo Cybersecurity Conference CTF Finals (2025)**  
+  - Finalist  
+  - 21 vulnerabilities discovered (6 personally identified)  
+  - Focus: Web  vulnerabilities
 
 ---
 
