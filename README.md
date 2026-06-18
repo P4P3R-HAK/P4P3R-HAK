@@ -48,7 +48,7 @@
 
 # 🛡️ Security Research
 
-### CVEs & Vulnerabilities
+### 🧠 CVEs & Vulnerabilities — (Solo Reports)
 
 | Year | CVE / KVE      | Vendor       | Product       | Type                                         | Url                                                         |
 | ---- | -------------- | ------------ | ------------- | -------------------------------------------- | ----------------------------------------------------------- |
@@ -66,12 +66,28 @@
 | 2026 | CVE-2026-48142 | F5 Inc       | NGINX         | Heap buffer over-read in charset module      | https://www.cve.org/CVERecord?id=CVE-2026-48142             |
 
 
-### Vulnerability Statistics
+### 📊 Solo Statistics
 
-* 🏆 Total CVEs/KVEs: 2
-* 🎖️ Total Valid Reports: 12
+* 🏆 CVEs/KVEs: 2
+* 🎖️ Valid Reports: 12
 
-### Research Areas
+---
+
+### 🤝 CVEs & Vulnerabilities — (Team / Coordinated Reports)
+
+| Year | Team   | CVE / KVE      | Vendor       | Product       | Type                                         | Url                                                         |
+| ---- | ------ | -------------- | ------------ | ------------- | -------------------------------------------- | ----------------------------------------------------------- |
+| -    | -      | -              | -            | -             | -                                            | -                                                           |
+
+
+### 📊 Team Statistics
+
+* 🏆 CVEs/KVEs: 2
+* 🎖️ Valid Reports: 12
+
+---
+
+### 📚 Research Areas
 
 * Web Application Security
 * Source Code Review
