@@ -75,9 +75,9 @@
 
 ### 🤝 CVEs & Vulnerabilities — (Team / Coordinated Reports)
 
-| Year | Team                             | CVE / KVE      | Vendor       | Product                     | Type                                     | Url                                                      |
-| ---- | -------------------------------- | -------------- | ------------ | --------------------------- | ---------------------------------------- | -------------------------------------------------------- |
-| 2024 | Vulzap(Stealien Security Leader) | CVE-2024-24714 | WordPress    | Icons Font Loader (plugin)  | Authenticated Arbitrary File Upload      | https://www.cve.org/CVERecord?id=CVE-2024-24714          |
+| Year | Team         | CVE / KVE      | Vendor       | Product                     | Type                                     | Url                                                      |
+| ---- | ------------ | -------------- | ------------ | --------------------------- | ---------------------------------------- | -------------------------------------------------------- |
+| 2024 | Vulzap       | CVE-2024-24714 | WordPress    | Icons Font Loader (plugin)  | Authenticated Arbitrary File Upload      | https://www.cve.org/CVERecord?id=CVE-2024-24714          |
 
 
 ### 📊 Team Statistics
