@@ -50,29 +50,30 @@
 
 ### 🧠 CVEs & Vulnerabilities — (Solo Reports)
 
-| Year | CVE / KVE      | Vendor       | Product            | Type                                         | Url                                                                       |
-| ---- | -------------- | ------------ | ------------------ | -------------------------------------------- | ------------------------------------------------------------------------- |
-| 2026 | -              | WordPress    | wordpress.org      | Stored XSS                                   | https://hackerone.com/reports/3624450                                     |
-| 2026 | -              | WordPress    | bbpress.org        | CSRF                                         | https://hackerone.com/reports/3630002                                     |
-| 2026 | -              | BandiSoft    | Bandizip           | Hard link resolution in file creation        | https://kr.bandisoft.com/bandizip/history/                                |
-| 2026 | -              | BandiSoft    | Bandizip           | Filename normalization in archive extraction | https://kr.bandisoft.com/bandizip/history/                                |
-| 2026 | -              | BandiSoft    | Bandizip           | File trust metadata handling (MoTW)          | https://kr.bandisoft.com/bandizip/history/                                |
-| 2026 | -              | SirSoft      | gnuboard5          | 5.6.26 version RCE                           | https://github.com/gnuboard/gnuboard5/releases/tag/v5.6.27                |
-| 2026 | CVE-2026-42504 | Google       | Golang             | MIME header decoding DoS                     | https://www.cve.org/CVERecord?id=CVE-2026-42504                           |
-| 2026 | -              | Google       | Golang             | X.509 certificate validation logic issue     | https://github.com/golang/go/issues/79833                                 |
-| 2026 | -              | ScintillaOrg | Lexilla            | Stack out-of-bounds write in lexer           | https://github.com/ScintillaOrg/lexilla/issues/364                        |
-| 2026 | -              | KOReader     | KOReader           | Command injection via PDF external link URI  | https://github.com/koreader/koreader/issues/15490                         |
-| 2026 | CVE-2026-48142 | F5 Inc       | NGINX              | Heap buffer over-read in charset module      | https://www.cve.org/CVERecord?id=CVE-2026-48142                           |
-| 2026 | -              | WordPress    | Create Block Theme | PHP RCE                                      | https://github.com/WordPress/create-block-theme/releases/tag/v2.10.0      |
-| 2026 | -              | WordPress    | Create Block Theme | Media asset RCE                              | https://github.com/WordPress/create-block-theme/releases/tag/v2.10.0      |
-| 2026 | CVE-2026-59817 | TryGhost     | Ghost              | Gift membership price bypass                 | https://github.com/TryGhost/Ghost/security/advisories/GHSA-xm43-3m56-w3wf |
-| 2026 | CVE-2026-57611 | Apache       | Commons JEXL       | JexlPermissions.RESTRICTED sandbox bypass    | https://www.cve.org/CVERecord?id=CVE-2026-57611                           |
+| Year | CVE / KVE      | Vendor       | Product            | Type                                         | Url                                                                                            |
+| ---- | -------------- | ------------ | ------------------ | -------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 2026 | -              | WordPress    | wordpress.org      | Stored XSS                                   | https://hackerone.com/reports/3624450                                                          |
+| 2026 | -              | WordPress    | bbpress.org        | CSRF                                         | https://hackerone.com/reports/3630002                                                          |
+| 2026 | -              | BandiSoft    | Bandizip           | Hard link resolution in file creation        | https://kr.bandisoft.com/bandizip/history/                                                     |
+| 2026 | -              | BandiSoft    | Bandizip           | Filename normalization in archive extraction | https://kr.bandisoft.com/bandizip/history/                                                     |
+| 2026 | -              | BandiSoft    | Bandizip           | File trust metadata handling (MoTW)          | https://kr.bandisoft.com/bandizip/history/                                                     |
+| 2026 | -              | SirSoft      | gnuboard5          | 5.6.26 version RCE                           | https://github.com/gnuboard/gnuboard5/releases/tag/v5.6.27                                     |
+| 2026 | CVE-2026-42504 | Google       | Golang             | MIME header decoding DoS                     | https://www.cve.org/CVERecord?id=CVE-2026-42504                                                |
+| 2026 | -              | Google       | Golang             | X.509 certificate validation logic issue     | https://github.com/golang/go/issues/79833                                                      |
+| 2026 | -              | ScintillaOrg | Lexilla            | Stack out-of-bounds write in lexer           | https://github.com/ScintillaOrg/lexilla/issues/364                                             |
+| 2026 | -              | KOReader     | KOReader           | Command injection via PDF external link URI  | https://github.com/koreader/koreader/issues/15490                                              |
+| 2026 | CVE-2026-48142 | F5 Inc       | NGINX              | Heap buffer over-read in charset module      | https://www.cve.org/CVERecord?id=CVE-2026-48142                                                |
+| 2026 | -              | WordPress    | Create Block Theme | PHP RCE                                      | https://github.com/WordPress/create-block-theme/releases/tag/v2.10.0                           |
+| 2026 | -              | WordPress    | Create Block Theme | Media asset RCE                              | https://github.com/WordPress/create-block-theme/releases/tag/v2.10.0                           |
+| 2026 | CVE-2026-59817 | TryGhost     | Ghost              | Gift membership price bypass                 | https://github.com/TryGhost/Ghost/security/advisories/GHSA-xm43-3m56-w3wf                      |
+| 2026 | CVE-2026-57611 | Apache       | Commons JEXL       | JexlPermissions.RESTRICTED sandbox bypass    | https://www.cve.org/CVERecord?id=CVE-2026-57611                                                |
+| 2026 | CVE 발급 예정  | Notepad++    | Notepad++          | Install path command injection               | https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-gp2r-262h-9hgf |
 
 
 ### 📊 Solo Statistics
 
 * 🏆 CVEs/KVEs: 4
-* 🎖️ Valid Reports: 15
+* 🎖️ Valid Reports: 16
 
 ---
 
