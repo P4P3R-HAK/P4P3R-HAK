@@ -52,8 +52,8 @@
 
 | Year | CVE / KVE      | Vendor       | Product            | Type                                         | Url                                                                                            |
 | ---- | -------------- | ------------ | ------------------ | -------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 2026 | -              | WordPress    | wordpress.org      | Stored XSS                                   | https://hackerone.com/reports/3624450                                                          |
-| 2026 | -              | WordPress    | bbpress.org        | CSRF                                         | https://hackerone.com/reports/3630002                                                          |
+| 2026 | -              | WordPress    | wordpress.org      | Stored XSS                                   | https://hackerone.com/reports/3624450 (private)                                                |
+| 2026 | -              | WordPress    | bbpress.org        | CSRF                                         | https://hackerone.com/reports/3630002 (private)                                                |
 | 2026 | -              | BandiSoft    | Bandizip           | Hard link resolution in file creation        | https://kr.bandisoft.com/bandizip/history/                                                     |
 | 2026 | -              | BandiSoft    | Bandizip           | Filename normalization in archive extraction | https://kr.bandisoft.com/bandizip/history/                                                     |
 | 2026 | -              | BandiSoft    | Bandizip           | File trust metadata handling (MoTW)          | https://kr.bandisoft.com/bandizip/history/                                                     |
@@ -68,12 +68,15 @@
 | 2026 | CVE-2026-59817 | TryGhost     | Ghost              | Gift membership price bypass                 | https://github.com/TryGhost/Ghost/security/advisories/GHSA-xm43-3m56-w3wf                      |
 | 2026 | CVE-2026-57611 | Apache       | Commons JEXL       | JexlPermissions.RESTRICTED sandbox bypass    | https://www.cve.org/CVERecord?id=CVE-2026-57611                                                |
 | 2026 | CVE 발급 예정  | Notepad++    | Notepad++          | Install path command injection               | https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-gp2r-262h-9hgf |
+| 2026 | CVE-2026-56434 | F5 Inc       | NGINX              | ngx_http_ssi_module Use After Free           | https://my.f5.com/manage/s/article/K000162098                                                  |
+| 2026 | -              | WordPress    | wordpress.org      | REST API IDOR (removed from WordPress.org)   | (private)                                                                                      |
+| 2026 | -              | WordPress    | wordpress.org      | Block Plugin Checker Stored XSS              | https://hackerone.com/reports/3707610 (private)                                                |
 
 
 ### 📊 Solo Statistics
 
-* 🏆 CVEs/KVEs: 4
-* 🎖️ Valid Reports: 16
+* 🏆 CVEs/KVEs: 5
+* 🎖️ Valid Reports: 19
 
 ---
 
