@@ -118,7 +118,7 @@ CTF write-ups and participation history focusing on web exploitation, reverse en
   - 57 vulnerabilities discovered (21 personally identified)  
   - Focus: Web  vulnerabilities  
 
-- 🥈 **Hoseo Cybersecurity Conference CTF Finals (2025)**  
+- 🥈 **Honam Cybersecurity Conference CTF Finals (2025)**  
   - Finalist  
   - 21 vulnerabilities discovered (6 personally identified)  
   - Focus: Web  vulnerabilities
