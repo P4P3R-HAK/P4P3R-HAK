@@ -73,12 +73,13 @@
 | 2026 | -              | WordPress    | wordpress.org        | Block Plugin Checker Stored XSS              | https://hackerone.com/reports/3707610 (private)                                                |
 | 2026 | -              | WordPress    | secure-custom-fields | Unauthenticated Privilege Escalation         | https://hackerone.com/reports/3815087 (private)                                                |
 | 2026 | CVE-2026-18757 | Synology     | DSM 7.4-90075        | Public disclosure pending                    | Public disclosure pending                                                                      |
+| 2026 | CVE-2026-14681 | PostgreSQL   | PostgreSQL           | GSSAPI/SSL encryption policy bypass          | https://www.postgresql.org/docs/release/18.6/                                                  |
 
 
 ### 📊 Solo Statistics
 
-* 🏆 CVEs/KVEs: 7
-* 🎖️ Valid Reports: 21
+* 🏆 CVEs/KVEs: 8
+* 🎖️ Valid Reports: 22
 
 ---
 
