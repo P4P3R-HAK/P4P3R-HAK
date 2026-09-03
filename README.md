@@ -55,9 +55,11 @@
 | 2026 | -              | WordPress    | wordpress.org        | Stored XSS                                   | https://hackerone.com/reports/3624450 (private)                                                |
 | 2026 | -              | WordPress    | bbpress.org          | CSRF                                         | https://hackerone.com/reports/3630002 (private)                                                |
 | 2026 | -              | BandiSoft    | Bandizip             | Hard link resolution in file creation        | https://kr.bandisoft.com/bandizip/history/                                                     |
+| 2026 | KVE-2026-0580  | chaewool     | UTMP3                | (private)                                    | (private)                                                                                      |
+| 2026 | KVE-2026-0851  | SirSoft      | Gnuboard7            | (private)                                    | (private)                                                                                      |
 | 2026 | -              | BandiSoft    | Bandizip             | Filename normalization in archive extraction | https://kr.bandisoft.com/bandizip/history/                                                     |
 | 2026 | -              | BandiSoft    | Bandizip             | File trust metadata handling (MoTW)          | https://kr.bandisoft.com/bandizip/history/                                                     |
-| 2026 | -              | SirSoft      | gnuboard5            | 5.6.26 version RCE                           | https://github.com/gnuboard/gnuboard5/releases/tag/v5.6.27                                     |
+| 2026 | -              | SirSoft      | Gnuboard5            | 5.6.26 version RCE                           | https://github.com/gnuboard/gnuboard5/releases/tag/v5.6.27                                     |
 | 2026 | CVE-2026-42504 | Google       | Golang               | MIME header decoding DoS                     | https://www.cve.org/CVERecord?id=CVE-2026-42504                                                |
 | 2026 | -              | Google       | Golang               | X.509 certificate validation logic issue     | https://github.com/golang/go/issues/79833                                                      |
 | 2026 | -              | ScintillaOrg | Lexilla              | Stack out-of-bounds write in lexer           | https://github.com/ScintillaOrg/lexilla/issues/364                                             |
@@ -74,12 +76,14 @@
 | 2026 | -              | WordPress    | secure-custom-fields | Unauthenticated Privilege Escalation         | https://hackerone.com/reports/3815087 (private)                                                |
 | 2026 | CVE-2026-18757 | Synology     | DSM 7.4-90075        | Public disclosure pending                    | Public disclosure pending                                                                      |
 | 2026 | CVE-2026-14681 | PostgreSQL   | PostgreSQL           | GSSAPI/SSL encryption policy bypass          | https://www.postgresql.org/docs/release/18.6/                                                  |
+| 2026 | CVE-2026-74857 | Synology     | DSM 7.4.1-90080      | Public disclosure pending                    | Public disclosure pending                                                                      |
+
 
 
 ### 📊 Solo Statistics
 
-* 🏆 CVEs/KVEs: 8
-* 🎖️ Valid Reports: 22
+* 🏆 CVEs/KVEs: 11
+* 🎖️ Valid Reports: 25
 
 ---
 
@@ -93,7 +97,7 @@
 ### 📊 Team Statistics
 
 * 🏆 CVEs/KVEs: 1
-* 🎖️ Valid Reports: 0
+* 🎖️ Valid Reports: 1
 
 ---
 
