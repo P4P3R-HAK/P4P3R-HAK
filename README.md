@@ -77,12 +77,12 @@
 | 2026 | CVE-2026-18757 | Synology     | DSM 7.4-90075        | Public disclosure pending                    | Public disclosure pending                                                                      |
 | 2026 | CVE-2026-14681 | PostgreSQL   | PostgreSQL           | GSSAPI/SSL encryption policy bypass          | https://www.postgresql.org/docs/release/18.6/                                                  |
 | 2026 | CVE-2026-74857 | Synology     | DSM 7.4.1-90080      | Public disclosure pending                    | Public disclosure pending                                                                      |
-
+| 2026 | CVE-2026-86315 | SAMSUNG      | Escargot             | Heap out-of-bounds write                     | https://vulnogram.org/seaview/?CVE-2026-86315                                                  |
 
 
 ### 📊 Solo Statistics
 
-* 🏆 CVEs/KVEs: 11
+* 🏆 CVEs/KVEs: 12
 * 🎖️ Valid Reports: 25
 
 ---
