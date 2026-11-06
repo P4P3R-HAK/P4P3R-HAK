@@ -120,6 +120,17 @@ CTF write-ups and participation history focusing on web exploitation, reverse en
 <img width="1016" height="720" alt="image" src="https://github.com/user-attachments/assets/9e0882c4-90a7-45d2-8f0b-8ef687366d17" />
 - Multiple CTF participations with competitive rankings
 
+## 🚩 CTF Participation History
+
+| Year | CTF                        | Date                    | Rank  | Team                  |
+| ---- | -------------------------- | ----------------------- | ----- | --------------------- |
+| 2023 | IrisCTF 2023               | 2023.01.07 ~ 2023.01.09 | 22nd  | APT0                  |
+| 2023 | DiceCTF 2023               | 2023.02.04 ~ 2023.02.06 | 171st | SaturnX               |
+| 2023 | WolvCTF 2023               | 2023.03.18 ~ 2023.03.20 | 6th   | SaturnX               |
+| 2023 | LINE CTF 2023              | 2023.03.25 ~ 2023.03.26 | 72nd  | SaturnX               |
+| 2023 | PlaidCTF 2023              | 2023.04.15 ~ 2023.04.17 | 59th  | SaturnX               |
+| 2023 | DEF CON CTF Qualifier 2023 | 2023.05.27 ~ 2023.05.29 | 17th  | untitled (joint team) |
+
 ## 🧩 Competition Results
 
 - 🥇 **﻿제7회 TS 보안 허점을 찾아라! (2025)**  
