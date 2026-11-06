@@ -78,12 +78,14 @@
 | 2026 | CVE-2026-14681 | PostgreSQL   | PostgreSQL           | GSSAPI/SSL encryption policy bypass          | https://www.postgresql.org/docs/release/18.6/                                                  |
 | 2026 | CVE-2026-74857 | Synology     | DSM 7.4.1-90080      | Public disclosure pending                    | Public disclosure pending                                                                      |
 | 2026 | CVE-2026-86315 | SAMSUNG      | Escargot             | Heap out-of-bounds write                     | https://vulnogram.org/seaview/?CVE-2026-86315                                                  |
+| 2026 | CVE-2026-110392| SAMSUNG      | QA-Board             | OS Command Injection                         | https://www.cve.org/cverecord?id=CVE-2026-110392                                               |
+| 2026 | CVE-2026-108978| SAMSUNG      | rlottie              | heap-buffer-overflow                         | https://www.cve.org/cverecord?id=CVE-2026-108978                                               |
 
 
 ### 📊 Solo Statistics
 
-* 🏆 CVEs/KVEs: 12
-* 🎖️ Valid Reports: 25
+* 🏆 CVEs/KVEs: 14
+* 🎖️ Valid Reports: 27
 
 ---
 
@@ -120,13 +122,13 @@ CTF write-ups and participation history focusing on web exploitation, reverse en
 
 ## 🧩 Competition Results
 
-- 🥇 **TS Security Vulnerability Finding Contest (2025)**  
+- 🥇 **﻿제7회 TS 보안 허점을 찾아라! (2025)**  
   - 🏆 **Grand Prize (Team)**  
   - 57 vulnerabilities discovered (21 personally identified)  
   - Focus: Web  vulnerabilities  
 
-- 🥈 **Honam Cybersecurity Conference CTF Finals (2025)**  
-  - Finalist  
+- 🥈 **﻿제6회 호남사아버보안 컨퍼런스 웹 취약점 경진대회 본선 진출 (2025)**
+  - Finalist
   - 21 vulnerabilities discovered (6 personally identified)  
   - Focus: Web  vulnerabilities
 
