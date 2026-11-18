@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![CVEs & KVEs](https://img.shields.io/badge/CVEs%20%26%20KVEs-15-703ee5?style=for-the-badge)
+![CVEs & KVEs](https://img.shields.io/badge/CVEs%20%26%20KVEs-28-703ee5?style=for-the-badge)
 ![Valid Reports](https://img.shields.io/badge/Valid%20Reports-28-703ee5?style=for-the-badge)
 ![KISA Vuln Reports](https://img.shields.io/badge/KISA%20Vuln%20Reports-17%20accepted-703ee5?style=for-the-badge)
 ![VishwaCTF 2026](https://img.shields.io/badge/VishwaCTF%202026-1st%20Place-ffd700?style=for-the-badge)
@@ -76,7 +76,7 @@
 
 | Category | Solo | Team |
 | --- | :---: | :---: |
-| CVEs / KVEs | 15 | 1 |
+| CVEs / KVEs | 28 | 1 |
 | Valid Reports | 28 | 1 |
 | KISA 취약점 제보 | 17 | — |
 
@@ -99,30 +99,43 @@
 | — | BandiSoft | Bandizip | Hard link resolution in file creation | [Changelog](https://kr.bandisoft.com/bandizip/history/) |
 | KVE-2026-0580 | chaewool | UTMP3 | Private | — |
 | KVE-2026-0851 | SirSoft | Gnuboard7 | Private | — |
+| KVE-2026-1132 | koreainvestment | open-trading-api (Kis Trading MCP) | Private | — |
+| KVE-2026-1677 | SirSoft | Gnuboard7 | Private | — |
+| KVE-2026-1678 | SirSoft | Gnuboard7 | Private | — |
+| KVE-2026-1679 | SirSoft | Gnuboard7 | Private | — |
+| KVE-2026-1893 | SirSoft | Gnuboard7 | Private | — |
+| KVE-2026-2010 | SirSoft | Gnuboard7 | Private | — |
+| KVE-2026-2011 | SirSoft | Gnuboard7 | Private | — |
+| KVE-2026-2018 | SirSoft | Gnuboard7 | Private | — |
+| KVE-2026-2019 | SirSoft | Gnuboard7 | Private | — |
+| KVE-2026-2108 | Rhymix | Rhymix | Private | — |
+| KVE-2026-2109 | Rhymix | Rhymix | Private | — |
+| KVE-2026-2260 | NHN | TOAST UI Chart | Private | — |
+| KVE-2026-2274 | NHN | TOAST UI Tree | Private | — |
 | — | BandiSoft | Bandizip | Filename normalization in archive extraction | [Changelog](https://kr.bandisoft.com/bandizip/history/) |
 | — | BandiSoft | Bandizip | File trust metadata handling (MoTW) | [Changelog](https://kr.bandisoft.com/bandizip/history/) |
 | — | SirSoft | Gnuboard5 | 5.6.26 RCE | [Release](https://github.com/gnuboard/gnuboard5/releases/tag/v5.6.27) |
-| CVE-2026-42504 | Google | Golang | MIME header decoding DoS | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-42504) |
+| CVE-2026-42504 | Google | Golang | MIME header decoding DoS (quadratic complexity in mime WordDecoder.DecodeHeader) | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-42504) |
 | — | Google | Golang | X.509 certificate validation logic issue | [Issue #79833](https://github.com/golang/go/issues/79833) |
 | — | ScintillaOrg | Lexilla | Stack out-of-bounds write in lexer | [Issue #364](https://github.com/ScintillaOrg/lexilla/issues/364) |
 | — | KOReader | KOReader | Command injection via PDF external link URI | [Issue #15490](https://github.com/koreader/koreader/issues/15490) |
-| CVE-2026-48142 | F5 Inc | NGINX | Heap buffer over-read in charset module | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-48142) |
+| CVE-2026-48142 | F5 Inc | NGINX | Heap buffer over-read in ngx_http_charset_module | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-48142) |
 | — | WordPress | Create Block Theme | PHP RCE | [Release](https://github.com/WordPress/create-block-theme/releases/tag/v2.10.0) |
 | — | WordPress | Create Block Theme | Media asset RCE | [Release](https://github.com/WordPress/create-block-theme/releases/tag/v2.10.0) |
-| CVE-2026-59817 | TryGhost | Ghost | Gift membership price bypass | [Advisory](https://github.com/TryGhost/Ghost/security/advisories/GHSA-xm43-3m56-w3wf) |
+| CVE-2026-59817 | TryGhost | Ghost | Paid gift membership obtained at minimal cost via donations | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-59817) |
 | CVE-2026-57611 | Apache | Commons JEXL | JexlPermissions.RESTRICTED sandbox bypass | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-57611) |
-| CVE-2026-73250 | Notepad++ | Notepad++ | Install path command injection | [Advisory](https://github.com/notepad-plus-plus/notepad-plus-plus/security/advisories/GHSA-gp2r-262h-9hgf) |
-| CVE-2026-56434 | F5 Inc | NGINX | ngx_http_ssi_module Use After Free | [F5](https://my.f5.com/manage/s/article/K000162098) |
+| CVE-2026-73250 | Notepad++ | Notepad++ | Install-time PowerShell command injection via installation path | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-73250) |
+| CVE-2026-56434 | F5 Inc | NGINX | ngx_http_ssi_module Use After Free | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-56434) |
 | — | WordPress | wordpress.org | REST API IDOR (removed from WordPress.org) | Private |
 | — | WordPress | wordpress.org | Block Plugin Checker Stored XSS | [#3707610](https://hackerone.com/reports/3707610) (private) |
 | — | WordPress | secure-custom-fields | Unauthenticated Privilege Escalation | [#3815087](https://hackerone.com/reports/3815087) (private) |
-| CVE-2026-18757 | Synology | DSM 7.4-90075 | Public disclosure pending | Pending |
-| CVE-2026-14681 | PostgreSQL | PostgreSQL | GSSAPI/SSL encryption policy bypass | [Release Notes](https://www.postgresql.org/docs/release/18.6/) |
-| CVE-2026-74857 | Synology | DSM 7.4.1-90080 | Public disclosure pending | Pending |
-| CVE-2026-86315 | SAMSUNG | Escargot | Heap out-of-bounds write | [Vulnogram](https://vulnogram.org/seaview/?CVE-2026-86315) |
-| CVE-2026-110392 | SAMSUNG | QA-Board | OS Command Injection | [CVE.org](https://www.cve.org/cverecord?id=CVE-2026-110392) |
-| CVE-2026-108978 | SAMSUNG | rlottie | heap-buffer-overflow | [CVE.org](https://www.cve.org/cverecord?id=CVE-2026-108978) |
-| CVE-2026-18596 | Synology | DSM | Public disclosure pending | Pending |
+| CVE-2026-18757 | Synology | DSM | Missing critical step in authentication (Auth API) — arbitrary file read/write & DoS | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-18757) |
+| CVE-2026-14681 | PostgreSQL | PostgreSQL | Improper enforcement of GSSAPI encryption when coupled with SSL | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-14681) |
+| CVE-2026-74857 | Synology | DSM | Missing critical step in authentication (API framework) — arbitrary file read | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-74857) |
+| CVE-2026-86315 | SAMSUNG | Escargot | Out-of-bounds write via numeric truncation | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-86315) |
+| CVE-2026-110392 | SAMSUNG | QA-Board | Unauthenticated OS command injection | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-110392) |
+| CVE-2026-108978 | SAMSUNG | rlottie | Heap-based buffer overflow via environment variables | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-108978) |
+| CVE-2026-18596 | Synology | DSM | Authentication bypass via alternate path/channel (OTP) — arbitrary file read/write & DoS | [CVE.org](https://www.cve.org/CVERecord?id=CVE-2026-18596) |
 
 ### CVEs & Vulnerabilities — Team / Coordinated Reports
 
